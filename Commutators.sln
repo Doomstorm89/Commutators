@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commutators", "Commutators\Commutators.csproj", "{91824694-DFDD-4823-8006-CE260067E553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91824694-DFDD-4823-8006-CE260067E553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91824694-DFDD-4823-8006-CE260067E553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91824694-DFDD-4823-8006-CE260067E553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91824694-DFDD-4823-8006-CE260067E553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16450FB7-784C-4A8B-A352-81047ED9DD7A}
+	EndGlobalSection
+EndGlobal
